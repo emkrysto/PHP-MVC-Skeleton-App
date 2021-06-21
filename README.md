@@ -1,7 +1,7 @@
 # PHP-MVC-Skeleton-App
 PHP application skeleton that uses MVC architectural pattern
 
-##MVC Model-View-Controller
+## MVC Model-View-Controller
   pattern Architectural used to organize the structure of applications.
 
   Divides the application into three main parts:
