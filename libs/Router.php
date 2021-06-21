@@ -26,10 +26,6 @@ class Router {
         }
     }
     
-    public function functionName() {
-        return "dddssss";
-    }
-    
     public function __toString() {
         return $this -> controller;
     }
