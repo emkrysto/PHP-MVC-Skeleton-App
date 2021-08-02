@@ -42,7 +42,7 @@ class UserController extends ViewController {
         
         $this -> view -> title = 'User info: ';
         $this -> view -> username = $result['username'];
-        $this -> view -> roles = json_decode($result['roles'])[0];
+        $this -> view -> roles = json_decode($result['roles'], true)[0];
  
         //echo $this -> model; // to show sql query
 
