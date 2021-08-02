@@ -2,7 +2,7 @@
 
 class UserController extends ViewController {
     
-    function UserController($params) {
+    function __construct($params) {
         
         /*
          *  If the child does not define a constructor then it may be inherited
