@@ -15,7 +15,7 @@ PHP application skeleton that uses MVC architectural pattern
     Using a web browser navigate to 
         http://localhost/phpmyadmin
     Create database 
-        CREATE DATABASE "auth2';
+        CREATE DATABASE auth2;
     Create table in "auth2"
         CREATE TABLE admin (
           ID int NOT NULL,
